@@ -1,0 +1,30 @@
+#p1{
+    border: 20px dotted ;
+}
+#p2{
+    border: 20px dashed;
+}
+#p3{
+    border: 20px solid ;
+}
+#p4{
+    border: 20px double ;
+}
+#p5{
+    border: 20px groove;
+}
+#p6{
+    border: 20px ridge ;
+}
+#p7{
+    border: 20px inset ;
+}
+#p8{
+    border: 20px outset ;
+}
+#p9{
+    border: 20px none ;
+}
+#p10{
+    border: 20px hidden;
+}
